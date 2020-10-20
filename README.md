@@ -18,7 +18,7 @@ You may need to restart your computer after installation.
 
 * Download or clone the git repo: 
 ```
-git clone https://github.com/nebblu/MLg.git
+git clone https://github.com/nebblu/ML_unige.git
 ```
 
 * Add the conda-forge channel 
