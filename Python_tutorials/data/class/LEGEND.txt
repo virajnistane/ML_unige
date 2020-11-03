@@ -1,0 +1,17 @@
+# Legend for data files/folders
+
+fr_mlg: Includes Hu-Sawicki [0705.1158] f(R) gravity spectra
+gr_mlg: Includes general relativity spectra
+Skewed: Further data set with lower modification in the f(R) data and less GR data examples. 
+
+
+Columns of data files: 
+
+Wave mode k [h/Mpc]  | Linear Power Spectrum P(k) |  Linear No-Wiggle spectrum  P_NW(k)
+
+The No-wiggle spectrum has removed the baryon acoustic oscillation feature from P(k). 
+
+All data was produced using ReACT : https://github.com/nebblu/ReACT
+
+
+
