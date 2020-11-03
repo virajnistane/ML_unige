@@ -16,7 +16,7 @@ If you aer new to python/jupyter, follow the following instructions:
 See the installation instructions [here](https://conda.io/projects/conda/en/latest/user-guide/install/).
 You may need to restart your computer after installation.
 
-* Download or clone the git repo: 
+* Download or clone the git rep: 
 ```
 git clone https://github.com/nebblu/ML_unige.git
 ```
