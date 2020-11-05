@@ -14,4 +14,6 @@ The No-wiggle spectrum has removed the baryon acoustic oscillation feature from 
 All data was produced using ReACT : https://github.com/nebblu/ReACT
 
 
+The fr_mlg and gr_mlg text files include the cosmology of each spectrum example with columns:
 
+Example number |  Omega_matter | Omega_baryons | Hubble constant | spectral tilt n_s | amplitude of density fluctuations sigma_8 | f(R) parameter fr_0 | - | - | 
