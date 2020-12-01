@@ -1,0 +1,22 @@
+https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/about-forks
+
+Syncing a fork
+
+Sync a fork of a repository to keep it up-to-date with the upstream repository.
+
+1. Change the current working directory to your local project.
+2. Fetch the branches and their respective commits from the upstream repository. Commits to BRANCHNAME will be stored in the local branch upstream/BRANCHNAME.
+   git fetch upstream
+3. git checkout main
+4. git merge upstream/main
+
+
+Merging an upstream repository into your fork
+
+If you don't have push (write) access to an upstream repository, then you can pull commits from that repository into your own fork.
+
+1. Change the current working directory to your local project.
+2. git checkout main
+3. git pull https://github.com/nebblu/ML_unige.git main
+4. commit
+5. git push origin main
